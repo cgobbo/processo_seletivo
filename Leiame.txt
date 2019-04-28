@@ -1,0 +1,7 @@
+Versão do Delphi utilizada XE 10.3.1 (Rio)
+
+Componente: ACBR.
+
+Obs.: Meu ambiente delphi 2010 estava com pau de instalação, dai optei pelo Rio.
+
+Att
